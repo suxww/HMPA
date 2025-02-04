@@ -16,3 +16,8 @@ step01: Micropeptide expression quantification and differential expression analy
 step02: Structure prediction and functional annotation
 
 step03: Data visualization
+
+# Citation
+If you use HMPA in your research, please cite our paper:
+
+HMPA: a pioneering framework for the noncanonical peptidome from discovery to functional insights (https://doi.org/10.1093/bib/bbae510).
